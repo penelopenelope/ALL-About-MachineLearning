@@ -1,2 +1,2 @@
 # CompBioTree-MachineLearning
-Machine Learning Theory and Models for Computational Biology.
+Notes of Machine Learning Theory and Models for Computational Biology.
